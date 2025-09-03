@@ -7,4 +7,4 @@ master:
   persistence:
     enabled: false
 image:
-  repository: docker.io/bitnamilegacy/redis
+  repository: bitnamilegacy/redis
