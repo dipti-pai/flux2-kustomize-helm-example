@@ -8,3 +8,4 @@ master:
     enabled: false
 image:
   repository: bitnamilegacy/redis
+  tag: latest
