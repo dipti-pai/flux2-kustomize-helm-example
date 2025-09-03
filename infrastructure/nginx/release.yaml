@@ -24,4 +24,4 @@ spec:
     service:
       type: NodePort
     image:
-      repository: docker.io/bitnamilegacy/nginx
+      repository: bitnamilegacy/nginx
