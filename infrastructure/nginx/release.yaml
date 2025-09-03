@@ -23,3 +23,5 @@ spec:
   values:
     service:
       type: NodePort
+    image:
+      repository: bitnamilegacy/nginx-ingress-controller

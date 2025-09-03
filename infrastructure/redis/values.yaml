@@ -6,3 +6,5 @@ cluster:
 master:
   persistence:
     enabled: false
+image:
+  repository: bitnamilegacy/redis
